@@ -25,7 +25,7 @@ An animated landing page concept inspired by **Elden Ring**, built with modern f
 ## 🚀How to Run Locally  
 
 git clone https://github.com/ashishroyx/elden-ring.git
-cd elden-ring
-npm install
-npm run dev
+-cd elden-ring
+-npm install
+-npm run dev
 
