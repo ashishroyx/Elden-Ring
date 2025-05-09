@@ -1,5 +1,8 @@
 # Elden Ring: Nightreign – Interactive Landing Page
 
+<img width="947" alt="image" src="https://github.com/user-attachments/assets/fa0d6427-d9bd-4081-9753-e58ddaac7e5e" />
+
+
 An animated landing page concept inspired by **Elden Ring**, built with modern frontend tools and motion design. This project blends immersive visuals with smooth transitions, dynamic SVG masking, and parallax-like effects to create a fantasy-themed UI experience.
 
 ## 🛠 Tech Stack
