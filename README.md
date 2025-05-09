@@ -1,12 +1,28 @@
-# React + Vite
+# Elden Ring: Nightreign – Interactive Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An animated landing page concept inspired by **Elden Ring**, built with modern frontend tools and motion design. This project blends immersive visuals with smooth transitions, dynamic SVG masking, and parallax-like effects to create a fantasy-themed UI experience.
 
-Currently, two official plugins are available:
+## 🛠 Tech Stack
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **React.js** – Component-based UI architecture  
+- **Tailwind CSS** – Utility-first CSS for fast, responsive design  
+- **GSAP (GreenSock Animation Platform)** – For timeline-based animations and transitions  
+- **SVG Masking** – Custom reveal animations  
+- **Remix Icon** – Lightweight icon set  
+- **System Fonts (Tahoma, Arial)** – Readable and performance-optimized  
 
-## Expanding the ESLint configuration
+## ✨Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Hero animation with SVG text masking  
+- Layered parallax motion on cursor move  
+- Smooth GSAP entrance transitions  
+- Responsive design with Tailwind  
+- Fantasy-themed UI components
+
+## 🚀How to Run Locally  
+
+git clone https://github.com/ashishroyx/elden-ring.git
+cd elden-ring
+npm install
+npm run dev
+
